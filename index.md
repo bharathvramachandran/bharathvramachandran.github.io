@@ -11,11 +11,10 @@ High-achieving B.Tech IT graduate and Full-Stack Developer with 1.2 years of exp
 ---
 
 ### 🛠️ Technical Toolbox
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java, Python, C++, SQL, JavaScript, MongoDB  |
-| **Frameworks** | React, Node.js (Express.js), Angular, Flask, FastAPI  |
-| **Core Skills** | DSA, OOP, RESTful API Design, Version Control  |
+
+* **💻 Languages:** Java, Python, C++, SQL, JavaScript, MongoDB
+* **🌐 Frameworks:** React, Node.js (Express.js), Angular, Flask, FastAPI
+* **⚙️ Core Skills:** DSA, OOP, RESTful API Design, Version Control
 
 ---
 
